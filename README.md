@@ -3,10 +3,9 @@
 ## 1. Соединение компонентов
 
 ### Необходимые компоненты:
-- Плата ESP32-C3 DevKit
+- Плата ESP32-C3 с дисплеем 0.46 OLED "The EGG"
 - Модуль AHT20 (температура и влажность)
 - Модуль BMP280 (температура и давление)
-- OLED дисплей 72x40 (SSD1306, I2C)
 - Провода для соединения
 
 ### Схема подключения (I2C все на одни пины):
@@ -152,10 +151,9 @@ GND           -> GND (все устройства)
 ## 1. Hardware Connection
 
 ### Required Components:
-- ESP32-C3 DevKit board
+- ESP32-C3 with onboard display 0.46 OLED "The EGG"
 - AHT20 module (temperature and humidity)
 - BMP280 module (temperature and pressure)
-- 72x40 OLED display (SSD1306, I2C)
 - Connecting wires
 
 ### Wiring Diagram (all I2C devices on same pins):
