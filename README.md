@@ -2,6 +2,8 @@
 
 ## 1. Соединение компонентов
 
+![Wire connections](https://github.com/CheshirCa/ESP32-Network-Meteostation/blob/main/connetions.jpg)
+
 ### Необходимые компоненты:
 - Плата ESP32-C3 с дисплеем 0.46 OLED "The EGG"
 - Модуль AHT20 (температура и влажность)
